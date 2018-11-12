@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RedditApiTest</string>
+
+    <string name="strange_error">Smth went wrong</string>
+</resources>

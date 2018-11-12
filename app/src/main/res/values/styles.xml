@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="TextPostsDetails" parent="TextAppearance.AppCompat.Body2">
+        <item name="android:gravity">start</item>
+        <item name="android:textSize">@dimen/post_detail_text_size</item>
+        <item name="android:padding">@dimen/item_rv_padding</item>
+    </style>
+</resources>

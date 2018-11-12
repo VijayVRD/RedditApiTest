@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Height -->
+    <dimen name="height_toolbar">56dp</dimen>
+    <dimen name="height_status_bar_toolbar">56dp</dimen>
+    <dimen name="margin_general">19dp</dimen>
+    <dimen name="item_rv_padding">8dp</dimen>
+    <dimen name="item_rv_text_padding">4dp</dimen>
+    <dimen name="item_rv_min_height">340dp</dimen>
+    <!-- Texts sizes -->
+    <dimen name="post_detail_text_size">14sp</dimen>
+
+
+</resources>
